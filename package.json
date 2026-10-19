@@ -1,0 +1,12 @@
+{
+  "name": "cat-mood-api",
+  "version": "1.0.0",
+  "description": "喵语 · 猫咪情绪识别服务端代理（零依赖，纯 Node 内置模块）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
